@@ -29,3 +29,4 @@ policies:
   - name: llama-stack-sno
     manifests:
       - path: mcp-github/
+      - path: sno/
